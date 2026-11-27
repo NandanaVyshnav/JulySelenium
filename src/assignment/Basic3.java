@@ -6,10 +6,10 @@ public class Basic3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter a: ");
+        System.out.print("Enter a: value is");
         int a = sc.nextInt();
 
-        System.out.print("Enter b: ");
+        System.out.print("Enter b: value is ");
         int b = sc.nextInt();
 
         int temp;
